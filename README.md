@@ -113,6 +113,4 @@ This repository preserves the original academic project exactly as it was submit
 
 The project was implemented entirely with custom data structures, including Binary Search Trees, Circular Linked Lists, Queues, Stacks, and Priority Queues, without using the C++ Standard Template Library (STL).
 
-For more academic projects, visit my **Computer Engineering Projects** repository:
-
-https://github.com/Lucaskatalahali/computer-engineering-projects
+For more academic projects, visit my **[Computer Engineering Projects](https://github.com/Lucaskatalahali/computer-engineering-projects)** repository.
