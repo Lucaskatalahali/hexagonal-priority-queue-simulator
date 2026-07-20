@@ -64,7 +64,7 @@ Additional supporting data structures:
 
 ## 🖼 Conceptual Model
 
-**Note:** The following diagram is taken from the original university assignment and is included for illustrative purposes.. It represents the data flow implemented by the application.
+**Note:** The following diagram is taken from the original university assignment and is included for illustrative purposes. It represents the data flow implemented by the application.
 
 Although the program runs entirely in the console, each displayed number represents the current state of a hexagonal priority queue whose internal structure consists of Binary Search Trees (BSTs). Trees are transferred between neighboring hexagons according to the simulation rules.
 
