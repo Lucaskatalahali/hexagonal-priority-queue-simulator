@@ -1,8 +1,12 @@
 # ⬢ Hexagonal Priority Queue Simulator
 
-Academic project developed during my second year of the **Computer Engineering degree at Sakarya Üniversitesi**.
+![Academic Project](https://img.shields.io/badge/Academic_Project-Sakarya_University-blue)
 
-This project was developed for the **Data Structures** course. It simulates a collection of **hexagonal priority queues**, where each queue stores up to six **Binary Search Trees (BSTs)**. During the simulation, trees are removed according to predefined priority rules and redistributed to neighboring hexagons, allowing the entire system to evolve over multiple rounds.
+![Course](https://img.shields.io/badge/Course-Data_Structures-blue)
+
+> 🎓 Part of my **[Computer Engineering Academic Portfolio](https://github.com/Lucaskatalahali/computer-engineering-projects)**.
+
+The application simulates a collection of **hexagonal priority queues**, where each queue stores up to six **Binary Search Trees (BSTs)**. During the simulation, trees are removed according to predefined priority rules and redistributed to neighboring hexagons, allowing the entire system to evolve over multiple rounds.
 
 All data structures were implemented from scratch without using the C++ Standard Template Library (STL).
 
